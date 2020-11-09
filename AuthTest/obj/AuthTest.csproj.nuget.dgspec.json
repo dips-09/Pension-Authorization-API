@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Cognizant Post Joining\\MFRP\\AuthTest\\AuthTest.csproj": {}
+    "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthTest\\AuthTest.csproj": {}
   },
   "projects": {
-    "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\AuthorizationAPI.csproj": {
+    "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\AuthorizationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\AuthorizationAPI.csproj",
+        "projectUniqueName": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
         "projectName": "AuthorizationAPI",
-        "projectPath": "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\AuthorizationAPI.csproj",
+        "projectPath": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
         "packagesPath": "C:\\Users\\DIPIKA\\.nuget\\packages\\",
-        "outputPath": "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\obj\\",
+        "outputPath": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DIPIKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,14 +101,14 @@
         }
       }
     },
-    "E:\\Cognizant Post Joining\\MFRP\\AuthTest\\AuthTest.csproj": {
+    "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthTest\\AuthTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Cognizant Post Joining\\MFRP\\AuthTest\\AuthTest.csproj",
+        "projectUniqueName": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthTest\\AuthTest.csproj",
         "projectName": "AuthTest",
-        "projectPath": "E:\\Cognizant Post Joining\\MFRP\\AuthTest\\AuthTest.csproj",
+        "projectPath": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthTest\\AuthTest.csproj",
         "packagesPath": "C:\\Users\\DIPIKA\\.nuget\\packages\\",
-        "outputPath": "E:\\Cognizant Post Joining\\MFRP\\AuthTest\\obj\\",
+        "outputPath": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DIPIKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,8 +124,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\AuthorizationAPI.csproj": {
-                "projectPath": "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\AuthorizationAPI.csproj"
+              "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\AuthorizationAPI.csproj": {
+                "projectPath": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\AuthorizationAPI.csproj"
               }
             }
           }

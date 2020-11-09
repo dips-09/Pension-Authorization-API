@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWE/8NcSj7/ZHO6nrwCyIHAXjzJ+tedMIcTsBiMh3BdmlEPmnWhosYCcNjfGE+kSQFKfIKaVsFvyVkFzCNSDuw==",
+  "dgSpecHash": "sk+0XUcjSWAhVvsG1ODBIIKe0nGTnb4fo/bbgK1z/mgNZ5oW9AUgsDIara9OdEZUhcwPov80VKS5LfoEsN8Xhg==",
   "success": true,
-  "projectFilePath": "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\AuthorizationAPI.csproj",
+  "projectFilePath": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DIPIKA\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\DIPIKA\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",

@@ -4888,11 +4888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\AuthorizationAPI.csproj",
+      "projectUniqueName": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
       "projectName": "AuthorizationAPI",
-      "projectPath": "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\AuthorizationAPI.csproj",
+      "projectPath": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\AuthorizationAPI.csproj",
       "packagesPath": "C:\\Users\\DIPIKA\\.nuget\\packages\\",
-      "outputPath": "E:\\Cognizant Post Joining\\MFRP\\AuthorizationAPI\\obj\\",
+      "outputPath": "E:\\Cognizant Post Joining\\MFPE\\AuthAPI\\AuthorizationAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DIPIKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
