@@ -1,20 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: dockersampleconfig-deployment
+  name: pensionauthorizationconfig-deployment
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: Dockersampleconfig
+      app: Pensionauthorizationconfig
   template:
     metadata:
       labels:
-        app: Dockersampleconfig
+        app: Pensionauthorizationconfig
     spec:
       containers:
-      - name: pensionmanagementrepos
-        image: 848954mfpecr.azurecr.io/pensionmanagementrepos:latest
+      - name: pensionauthorizationrepos
+        image: 848954mfpecr.azurecr.io/pensionauthorizationrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
@@ -24,10 +24,10 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: dockersampleconfig
+  name: pensionauthorizationconfig
 spec:
   type: LoadBalancer
   ports:
   - port: 80
   selector:
-    app: Dockersampleconfig
+    app: Pensionauthorizationconfig
